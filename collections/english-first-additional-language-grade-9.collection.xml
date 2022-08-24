@@ -1,3 +1,50 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11061</md:content-id>  <md:title>English First Additional Language Grade 9</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>ddc691a7-119e-4183-9352-3fe5a4301b5c</md:uuid>
-<md:slug>english-first-additional-language-grade-9</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Term 1</md:title>                                <col:content>                    <col:module document="m22095"/>                            <col:module document="m22094"/>                            <col:module document="m22102"/>                            <col:module document="m22100"/>                            <col:module document="m22104"/>                            <col:module document="m22105"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 2</md:title>                                <col:content>                    <col:module document="m22107"/>                            <col:module document="m22108"/>                            <col:module document="m22109"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 3</md:title>                                <col:content>                    <col:module document="m22118"/>                            <col:module document="m22119"/>                            <col:module document="m22120"/>                            <col:module document="m22131"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 4</md:title>                                <col:content>                    <col:module document="m22132"/>                            <col:module document="m22143"/>                            <col:module document="m22136"/>                            <col:module document="m22137"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Siyavula Uploaders">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11061</md:content-id>
+    <md:title>English First Additional Language Grade 9</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>ddc691a7-119e-4183-9352-3fe5a4301b5c</md:uuid>
+    <md:slug>english-first-additional-language-grade-9</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Term 1</md:title>
+      <col:content>
+        <col:module document="m22095"/>
+        <col:module document="m22094"/>
+        <col:module document="m22102"/>
+        <col:module document="m22100"/>
+        <col:module document="m22104"/>
+        <col:module document="m22105"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 2</md:title>
+      <col:content>
+        <col:module document="m22107"/>
+        <col:module document="m22108"/>
+        <col:module document="m22109"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 3</md:title>
+      <col:content>
+        <col:module document="m22118"/>
+        <col:module document="m22119"/>
+        <col:module document="m22120"/>
+        <col:module document="m22131"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 4</md:title>
+      <col:content>
+        <col:module document="m22132"/>
+        <col:module document="m22143"/>
+        <col:module document="m22136"/>
+        <col:module document="m22137"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
